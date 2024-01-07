@@ -1,0 +1,49 @@
+Project Zero Beta is balanced for vanilla terraria and other mods
+
+The mod does not work well with these mods:
+Secrets Of The Shadows+-,
+Calamity Mod+-,
+Remnant Of The Ancients Mod(I don't recommend).
+
+WARNING: The mod does not work well in multiplayer. Working on it ( 70% ).
+
+Discord: lavit1497
+
+Project Zero currently adds:
+Items: 200+.
+Armor Set: 2.
+Ammo: 2.
+Tiles: 4.
+Buffs: 3.
+Mobs: 7.
+Bosses: 4.
+Ore: 2.
+Sound Effects: 25+.
+Music: 3.
+
+Project Zero v0.2.1.0 >
+
+* Weapon Balance
+* Balance Mobs
+* Small redrawing of Items
+* Recycling of some Projectiles
+* Now for the mod to work you need ParticleLibrary
+* Boss added
+* Bosses reworked
+* Lots of work on multiplayer
+
+
+Developer list:
+
+lavit: Mod Creator, Artist, Programmer, Tester.
+
+Spectra: Musician.
+
+Chekried: Tester.
+
+and Max (More Nickname): Artist.
+
+Milpixee: Unactive Artist.
+
+
+Special thanks to: Boffin, Spectra

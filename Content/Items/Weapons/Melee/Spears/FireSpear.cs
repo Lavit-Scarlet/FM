@@ -1,0 +1,48 @@
+using System;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Terraria;
+using Terraria.DataStructures;
+using Terraria.ID;
+using Terraria.ModLoader;
+using FM.Content.Projectiles.Melee.Spears;
+using FM.Globals;
+
+namespace FM.Content.Items.Weapons.Melee.Spears
+{
+	public class FireSpear : ModItem
+	{
+		public override void SetDefaults()
+		{
+			Item.damage = 44;
+			Item.DamageType = DamageClass.Melee;
+			Item.width = 66;
+			Item.height = 66;
+			Item.useTime = 24;
+			Item.useAnimation = 24;
+			Item.useStyle = ItemUseStyleID.Shoot;
+			Item.knockBack = 4.6f;
+            Item.value = Item.sellPrice(0, 2, 60, 0);
+			Item.rare = 4;
+			Item.UseSound = SoundID.Item1;
+			Item.autoReuse = true;            
+			Item.shoot = ModContent.ProjectileType<FireSpearProj>(); 
+            Item.shootSpeed = 6.2f;
+			Item.noUseGraphic = true;
+			Item.noMelee = true;
+			//Item.channel = true;
+		}
+        public override bool CanUseItem(Player player)
+        {
+			return player.ownedProjectileCounts[Item.shoot] < 1;
+		}
+		public override void AddRecipes()
+		{
+			Recipe recipe = CreateRecipe();
+			recipe.AddIngredient(ItemID.HellstoneBar, 16);
+			recipe.AddTile(TileID.Anvils);
+			recipe.Register();
+		}
+    }
+}
+	

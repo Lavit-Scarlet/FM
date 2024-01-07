@@ -1,0 +1,1632 @@
+Items: {
+	# ACCESSORIES
+	
+	AmberAmulet: {
+		DisplayName: Янтарный амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 8%
+			Увеличивает шанс магического критического удара на 4
+			Увеличивает ману на 40
+			Затраты маны снижены на 6%
+			Увеличивает скорость магической атаки на 4%
+			'''
+	}
+
+	AmethystAmulet: {
+		DisplayName: Аметистовый амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 2%
+			Увеличивает шанс магического критического удара на 2
+			Увеличивает ману на 20
+			Затраты маны снижены на 2%
+			'''
+	}
+
+	CrystalAmulet: {
+		DisplayName: Хрустальный амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 12%
+			Увеличивает шанс магического критического удара на 6
+			Увеличивает ману на 40
+			Затраты маны снижены на 8%
+			Увеличивает скорость магической атаки на 4%
+			'''
+	}
+
+	DiamondAmulet: {
+		DisplayName: Алмазный амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 10%
+			Увеличивает шанс магического критического удара на 6
+			Увеличивает ману на 60
+			Затраты маны снижены на 8%
+			'''
+	}
+
+	EmeraldAmulet: {
+		DisplayName: Изумрудный амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 6%
+			Увеличивает шанс магического критического удара на 4
+			Увеличивает ману на 40
+			Затраты маны снижены на 5%
+			'''
+	}
+
+	RubyAmulet: {
+		DisplayName: Рубиновый амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 8%
+			Увеличивает шанс магического критического удара на 4
+			Увеличивает ману на 40
+			Затраты маны снижены на 6%
+			'''
+	}
+
+	SapphireAmulet: {
+		DisplayName: Сапфировый амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 5%
+			Увеличивает шанс магического критического удара на 4
+			Увеличивает ману на 20
+			Затраты маны снижены на 5%
+			'''
+	}
+
+	TopazAmulet: {
+		DisplayName: Топазовый амулет
+		Tooltip:
+			'''
+			Увеличивает магический урон на 4%
+			Увеличивает шанс магического критического удара на 2
+			Увеличивает ману на 20
+			Затраты маны снижены на 4%
+			'''
+	}
+
+	ArmagemCore: {
+		DisplayName: Малое ядро Армагема
+		Tooltip:
+			'''
+			Демон червь защитник темных границ
+			Увеличивает урон на 6% и крит на 2
+			Увеличивает максимальное здоровье на 20 и ману на 20
+			Увеличивает слот миньона на 1, регенерацию здоровья на 1 и пробивание брони на 2
+			Дает иммунитет к отбрасыванию
+			'''
+	}
+
+	FlaremCore: {
+		DisplayName: Малое ядро ФлаРема
+		Tooltip:
+			'''
+			Правая рука Алого принца
+			Увеличивает урон на 10% и крит на 4
+			Увеличивает максимальное здоровье на 40 и ману на 40
+			Увеличивает слот миньона на 2, регенерацию здоровья на 2 и пробивание брони на 4
+			Дает иммунитет к отбрасыванию
+			'''
+	}
+
+	ScarletSoul: {
+		DisplayName: Алая душа
+		Tooltip:
+			'''
+			Частица силы неизвестного
+			Увеличивает урон на 15% и крит на 6
+			Увеличивает максимальное здоровье на 60 и ману на 60
+			Увеличивает слот миньона на 4, регенерацию здоровья на 4 и пробивание брони на 6
+			Дает иммунитет к отбрасыванию
+			'''
+	}
+
+	FlanricWings: {
+		DisplayName: Фланрические крылья
+		Tooltip:
+			'''
+			Время полета: 130
+			Скорость полета: 7,5
+			Множитель ускорения: 1,5
+			'''
+	}
+
+	CrimsonWings: {
+		// DisplayName: Crimson Wings
+		// Tooltip: CHEAT
+	}
+
+	# AMMO
+	
+	IceArrow: {
+		DisplayName: Ледяная стрела
+		Tooltip: Есть шанс, что стрела после уничтожения разлетится на морозные огни
+	}
+
+	RTGrenade: {
+		DisplayName: RT-Граната
+		// Tooltip: ""
+	}
+
+	# TOOLS////
+	
+	DarkAxe: {
+		DisplayName: Темный топор
+		// Tooltip: ""
+	}
+
+	DarkHammer: {
+		DisplayName: Темный молот
+		// Tooltip: ""
+	}
+
+	DarkPickxe: {
+		DisplayName: Темная кирка
+		// Tooltip: ""
+	}
+
+	ElectroHamaxe: {
+		DisplayName: Электро молотопор
+		// Tooltip: ""
+	}
+
+	ElectroPickxe: {
+		DisplayName: Электро кирка
+		// Tooltip: ""
+	}
+
+	FlanricPickaxe: {
+		DisplayName: Фланрическая кирка
+		// Tooltip: ""
+	}
+
+	UnknownPickaxe: {
+		DisplayName: Неизвестная кирка
+		// Tooltip: ""
+	}
+
+	# MATERIALS////
+	
+	DarkOre: {
+		DisplayName: Темная руда
+		// Tooltip: ""
+	}
+
+	ElectroOre: {
+		DisplayName: Электро руда
+		// Tooltip: beta texture
+	}
+
+	FlanricCrystal: {
+		DisplayName: Фланрический кристалл
+		Tooltip: Вы чувствуете боль
+	}
+
+	PureSoulofPower: {
+		DisplayName: Чистая душа силы
+		// Tooltip: ""
+	}
+
+	ScarletFragment: {
+		DisplayName: Алый фрагмент
+		// Tooltip: ""
+	}
+
+	SlushofFate: {
+		DisplayName: Слякоть судьбы
+		// Tooltip: ""
+	}
+
+	SpaceCatalyst: {
+		DisplayName: Космический катализатор
+		// Tooltip: beta texture
+	}
+
+	DarkBar: {
+		DisplayName: Темный слиток
+		// Tooltip: ""
+	}
+
+	ElectroBar: {
+		DisplayName: Электро слиток
+		// Tooltip: ""
+	}
+
+	# MAGIC
+	
+	Stardom: {
+		DisplayName: Звездность
+		Tooltip: Стреляет тремя звездами, которые взрываются
+	}
+
+	BlackGrimoire: {
+		DisplayName: Черный гримуар
+		Tooltip: Открывает темную границу
+	}
+
+	BloodMaze: {
+		DisplayName: Кровавый лабиринт
+		Tooltip: Стресс с акцентом на движение и любовь
+	}
+
+	BookofSilesia: {
+		DisplayName: Небесная книга
+		Tooltip: Оружие древних небесных магов
+	}
+
+	BookofTrueFire: {
+		DisplayName: Книга настоящих огненных шаров
+		// Tooltip: ""
+	}
+
+	Finalstar: {
+		DisplayName: Финальная звезда
+		// Tooltip: ""
+	}
+
+	FreezeMark: {
+		DisplayName: Метка заморозки -Идеальная заморозка-
+		// Tooltip: ""
+	}
+
+	IceStormBook: {
+		DisplayName: Ледяной шторм
+		// Tooltip: ""
+	}
+
+	GrimoireofAnotherDimension: {
+		DisplayName: Гримуар другого измерения
+		Tooltip:
+			'''
+			Открывает темную границу
+			Щелкните правой кнопкой мыши, чтобы изменить тип стрельбы
+			'''
+		Mode1: Стрельба импульсным лазером
+		Mode2: Стрельба обычным лазером
+	}
+
+	KillerDoll: {
+		DisplayName: Кукла-убийца
+		// Tooltip: ""
+	}
+
+	RageofFire: {
+		DisplayName: Ярость огня
+		// Tooltip: ""
+	}
+
+	TheBookofWeakSouls: {
+		DisplayName: Книга слабых душ
+		Tooltip:
+			'''
+			Стреляет слабыми душами
+			Кто бы мог подумать
+			'''
+	}
+
+	SpectralKiller: {
+		DisplayName: Захоронение: Призрачный убийца
+		Tooltip: Смерть со всех сторон
+	}
+
+	FireStick: {
+		DisplayName: Огненная палка
+		// Tooltip: ""
+	}
+
+	IceStick: {
+		DisplayName: Ледяная палка
+		// Tooltip: ""
+	}
+
+	WaterStick: {
+		DisplayName: Водяная палка
+		// Tooltip: ""
+	}
+
+	CriptaneFlower: {
+		DisplayName: Криптановый цветок
+		// Tooltip: ""
+	}
+
+	DemoniteFlower: {
+		DisplayName: Демонический цветок
+		// Tooltip: ""
+	}
+
+	CrystalStaff: {
+		DisplayName: Хрустальный посох
+		// Tooltip: ""
+	}
+
+	ElectroStaff: {
+		DisplayName: Электро посох
+		// Tooltip: ""
+	}
+
+	FireStaff: {
+		DisplayName: Огненный посох
+		// Tooltip: ""
+	}
+
+	FlanricRose: {
+		DisplayName: Фланрическая роза
+		Tooltip: Стреляет цветком, который через время разлетается на самонаводящийся лепестки
+	}
+
+	FlowerofTheNight: {
+		DisplayName: Цветок ночи
+		// Tooltip: ""
+	}
+
+	IceFlower: {
+		DisplayName: Ледяной цветок
+		// Tooltip: ""
+	}
+
+	GaussRailGun: {
+		DisplayName: Рейлган Гаусса
+		Tooltip: Стреляет лазером; когда он поражает врага, он создает еще один лазер.
+	}
+
+	HallowedFlower: {
+		DisplayName: Священный цветок
+		// Tooltip: ""
+	}
+
+	HeavenlyStaff: {
+		DisplayName: Небесный посох
+		Tooltip: Оружие древних небесных магов
+	}
+
+	IceLaserRifle: {
+		DisplayName: Ледяная лазерная винтовка
+		// Tooltip: ""
+	}
+
+	MagmaCannon: {
+		DisplayName: Магматическая пушка
+		// Tooltip: ""
+	}
+
+	MagmaMonster: {
+		DisplayName: Магматический монстр
+		// Tooltip: ""
+	}
+
+	Severus: {
+		DisplayName: Северус
+		// Tooltip: ""
+	}
+
+	StaffofAtras: {
+		DisplayName: Старый посох Атраса
+		Tooltip: Спустя столько лет он потерял рассудок
+	}
+
+	StaffofColdBlood: {
+		DisplayName: Хладнокровие
+		// Tooltip: ""
+	}
+
+	StaffofFate: {
+		DisplayName: Посох судьбы
+		// Tooltip: ""
+	}
+
+	StaffofPrism: {
+		DisplayName: Посох призмы
+		// Tooltip: ""
+	}
+
+	StaffofTheInfernalNecromancer: {
+		DisplayName: Посох адского некроманта
+		// Tooltip: ""
+	}
+
+	TerraFlower: {
+		DisplayName: Терра цветок
+		// Tooltip: ""
+	}
+
+	TheMurk: {
+		DisplayName: Мрак
+		// Tooltip: ""
+	}
+
+	VeryOldWeapon: {
+		DisplayName: Очень старое оружие
+		// Tooltip: ""
+	}
+
+	WitherStaff: {
+		DisplayName: Иссохший посох
+		// Tooltip: ""
+	}
+
+	WorldStaff: {
+		DisplayName: Мир
+		Tooltip: МИИИИР... Мир
+	}
+
+	IceStaff: {
+		DisplayName: Снежный посох
+		Tooltip: Стреляет снежком
+	}
+
+	WaterStaff: {
+		DisplayName: Водяной посох
+		Tooltip: ""
+	}
+
+	HistoryBook: {
+		DisplayName: Книга по истории
+		Tooltip: Скоро...
+	}
+
+	SerenityBook: {
+		DisplayName: Книга безмятежности
+		// Tooltip: ""
+	}
+
+	StarFlower: {
+		DisplayName: Звездный цветок
+		// Tooltip: ""
+	}
+
+	HeavenlyStaff2: {
+		// DisplayName: Heavenly Staff2
+		// Tooltip: ""
+	}
+
+	ElectroFlowerBook: {
+		DisplayName: Книга шаровой молнии
+		// Tooltip: ""
+	}
+
+	# MELEE
+	
+	Stick: {
+		DisplayName: Палка
+		Tooltip: Урон по крапиве увеличен на 4, не, на 5000 урона.
+	}
+
+	BloodSword: {
+		DisplayName: Фланрический меч
+		// Tooltip: ""
+	}
+
+	BloodthirstyClaymore: {
+		DisplayName: Кровожадный Клеймор
+		Tooltip: Критические удары восстанавливают здоровье от 1 до 30
+	}
+
+	Carnage: {
+		DisplayName: Резня
+		// Tooltip: ""
+	}
+
+	DarkSword: {
+		DisplayName: Темный меч
+		// Tooltip: ""
+	}
+
+	ExoBlade: {
+		DisplayName: Экзо клинок
+		Tooltip: Критические удары создают дополнительные снаряды
+	}
+
+	FrostSword: {
+		DisplayName: Морозный меч
+		// Tooltip: ""
+	}
+
+	FuryofTheGalaxy: {
+		DisplayName: Ярость Галактики
+		// Tooltip: ""
+	}
+
+	HeavenlySword: {
+		DisplayName: Небесный меч
+		Tooltip: Оружие древних небесных воинов
+	}
+
+	HerosDemonicSword: {
+		DisplayName: Демонический меч героя
+		// Tooltip: ""
+	}
+
+	Last: {
+		DisplayName: Последний
+		// Tooltip: ""
+	}
+
+	Pandora: {
+		DisplayName: Пандора
+		// Tooltip: ""
+	}
+
+	SwordofFate: {
+		DisplayName: Меч судьбы
+		// Tooltip: ""
+	}
+
+	Reaper: {
+		DisplayName: Жнец
+		// Tooltip: ""
+	}
+
+	Spectralibur: {
+		DisplayName: Спектралибур
+		// Tooltip: ""
+	}
+
+	ChakramofFate: {
+		DisplayName: Шакрам судьбы
+		// Tooltip: ""
+	}
+
+	HellChakram: {
+		DisplayName: Адский шакрам
+		// Tooltip: ""
+	}
+
+	BaneSpear: {
+		DisplayName: Копье Бэйна
+		// Tooltip: ""
+	}
+
+	BloodSpear: {
+		DisplayName: Фланрическое копье
+		// Tooltip: ""
+	}
+
+	Dionaea: {
+		DisplayName: Дионея
+		// Tooltip: ""
+	}
+
+	FireSpear: {
+		DisplayName: Огненное копье
+		// Tooltip: ""
+	}
+
+	FullMoonSpear: {
+		DisplayName: копье Полнолуния
+		// Tooltip: ""
+	}
+
+	Galaxia: {
+		DisplayName: Галаксия
+		// Tooltip: ""
+	}
+
+	GoldSpear: {
+		DisplayName: Золотое копье
+		// Tooltip: ""
+	}
+
+	HeavenlySpear: {
+		DisplayName: Небесное копье
+		Tooltip: Оружие древних небесных воинов
+	}
+
+	HerbalSpear: {
+		DisplayName: Травяное копье
+		// Tooltip: ""
+	}
+
+	IceSpear: {
+		DisplayName: Ледяное копье
+		// Tooltip: ""
+	}
+
+	IronSpear: {
+		DisplayName: Железное копье
+		// Tooltip: ""
+	}
+
+	PlatinumSpear: {
+		DisplayName: Платиновое копье
+		// Tooltip: ""
+	}
+
+	Shining: {
+		// DisplayName: Shining
+		// Tooltip: ""
+	}
+
+	SpearofCryoGuardian: {
+		DisplayName: Копье Хранителя льда
+		// Tooltip: ""
+	}
+
+	SpearofFate: {
+		DisplayName: Копье судьбы
+		// Tooltip: ""
+	}
+
+	SpearOfTheSun: {
+		DisplayName: Копье Солнца
+		// Tooltip: ""
+	}
+
+	TerraSpear: {
+		DisplayName: Терра копье
+		// Tooltip: ""
+	}
+
+	TrueFullMoonSpear: {
+		DisplayName: Истинное копье полнолуния
+		// Tooltip: ""
+	}
+
+	WoodenSpear: {
+		// Tooltip: ""
+		DisplayName: Деревянное копье
+	}
+
+	BoneYoyo: {
+		DisplayName: Костяное йо-йо
+		// Tooltip: ""
+	}
+
+	CopperYoyo: {
+		DisplayName: Медное йо-йо
+		// Tooltip: ""
+	}
+
+	GoldYoyo: {
+		DisplayName: Золотое йо-йо
+		// Tooltip: ""
+	}
+
+	PlatinumYoyo: {
+		DisplayName: Платиновое йо-йо
+		// Tooltip: ""
+	}
+
+	SpecialPlatinumYoyo: {
+		DisplayName: Специальное платиновое йо-йо
+		// Tooltip: ""
+	}
+
+	StoneYoyo: {
+		DisplayName: Каменное йо-йо
+		// Tooltip: ""
+	}
+
+	AncientHammer: {
+		DisplayName: Древний молот
+		// Tooltip: ""
+	}
+
+	# RANGED
+	
+	PulseBlaster: {
+		DisplayName: Импульсный бластер v84
+		// Tooltip: ""
+	}
+
+	FlanBow: {
+		DisplayName: Гнев Феникса
+		Tooltip:
+			'''
+			Удерживайте атаку, чтобы выстрелить Фениксом, который наносит в 2 раза больше урона
+			<right>, чтобы использовать навык, перезарядка 5 секунд
+			'''
+	}
+
+	OldAdamBow: {
+		DisplayName: Старый лук Адама
+		Tooltip: Щелкните правой кнопкой мыши, чтобы изменить тип стрельбы
+		Mode1: Стельба с неба
+		Mode2: Обычная стрельба
+	}
+
+	ArosBow: {
+		DisplayName: Лук Ароса
+		// Tooltip: ""
+	}
+
+	BowofFate: {
+		DisplayName: Лук судьбы
+		// Tooltip: ""
+	}
+
+	CactusBow: {
+		DisplayName: Кактусовый лук
+		// Tooltip: ""
+	}
+
+	DamnBow: {
+		DisplayName: Проклятый лук
+		// Tooltip: ""
+	}
+
+	DarkBow: {
+		DisplayName: Темный лук
+		// Tooltip: ""
+	}
+
+	ElectroBow: {
+		DisplayName: Электро лук
+		// Tooltip: ""
+	}
+
+	ElegantBow: {
+		DisplayName: Элегантный лук
+		Tooltip: Прекрасен словно Бейлис за тысячу...
+	}
+
+	FlanricBow: {
+		DisplayName: Фланрический лук
+		// Tooltip: ""
+	}
+
+	FlaremBow: {
+		DisplayName: Лук Фларема
+		// Tooltip: ""
+	}
+
+	FrostBow: {
+		DisplayName: Морозный лук
+		// Tooltip: ""
+	}
+
+	GraniteBow: {
+		DisplayName: Гранитный лук
+		// Tooltip: ""
+	}
+
+	HeavenlyBow: {
+		DisplayName: Небесный лук
+		Tooltip: Оружие древних небесных лучников
+	}
+
+	HellstoneBow: {
+		DisplayName: Лук адского камня
+		// Tooltip: ""
+	}
+
+	MarbleBow: {
+		DisplayName: Мраморный лук
+		// Tooltip: ""
+	}
+
+	Spitefang: {
+		DisplayName: Злобный клык
+		// Tooltip: ""
+	}
+
+	RTAuto: {
+		// DisplayName: RTAuto-64
+		// Tooltip: ""
+	}
+
+	RTGrenadeLauncher: {
+		// DisplayName: RT-Grenade Launcher
+		// Tooltip: ""
+	}
+
+	RTSnaiper: {
+		// DisplayName: RT-10M
+		// Tooltip: ""
+	}
+
+	AKa: {
+		// DisplayName: AK-00
+		// Tooltip: ""
+	}
+
+	CL47: {
+		// DisplayName: CL-47
+		// Tooltip: ""
+	}
+
+	ShadowofOnyx: {
+		DisplayName: Тень Оникса
+		Tooltip:
+			'''
+			Оникс долго не хотел умирать, но его судьба была окончена
+			Правда от него осталась только одна частичка души, которую вы сейчас наблюдаете на своих руках
+			44% шанс не расходовать патроны
+			'''
+	}
+
+	T32: {
+		// DisplayName: T-32
+		// Tooltip: ""
+	}
+
+	GaussRifle: {
+		DisplayName: Винтовка Гаусса
+		Tooltip: Щелкните правой кнопкой мыши, чтобы изменить тип стрельбы
+		Mode1: Автомат
+		Mode2: Дробовик
+	}
+
+	LaserShotgun: {
+		DisplayName: Лазерный дробовик
+		// Tooltip: ""
+	}
+
+	Leichenfaust: {
+		// DisplayName: Leichenfaust v44
+		// Tooltip: ""
+	}
+
+	SoulShotgun: {
+		DisplayName: Душе стрел
+		Tooltip:
+			'''
+			<right>, чтобы выстрелить веером ракет 
+			Имеет перезарядку в 10 секунд
+			'''
+	}
+
+	CactusKnife: {
+		DisplayName: Кактусовый нож
+		// Tooltip: ""
+	}
+
+	CrimsonKnife: {
+		DisplayName: Багровый нож
+		// Tooltip: ""
+	}
+
+	DarkKnife: {
+		DisplayName: Темный нож
+		// Tooltip: ""
+	}
+
+	ElectroKnife: {
+		DisplayName: Электро нож
+		// Tooltip: ""
+	}
+
+	FireKnife: {
+		DisplayName: Огненный нож
+		// Tooltip: ""
+	}
+
+	FlanricKnife: {
+		DisplayName: Фланрический нож
+		// Tooltip: ""
+	}
+
+	GoldKnife: {
+		DisplayName: Золотой нож
+		// Tooltip: ""
+	}
+
+	HerbalKnife: {
+		DisplayName: Травяной нож
+		// Tooltip: ""
+	}
+
+	IceKnife: {
+		DisplayName: Ледяной нож
+		// Tooltip: ""
+	}
+
+	KnifeofFate: {
+		DisplayName: Нож cудьбы
+		// Tooltip: ""
+	}
+
+	LunaKnife: {
+		DisplayName: Луна
+		// Tooltip: ""
+	}
+
+	NightNightmare: {
+		DisplayName: Ночной кошмар
+		// Tooltip: ""
+	}
+
+	PenetratingDarkness: {
+		DisplayName: Проникающая тьма
+		// Tooltip: ""
+	}
+
+	PlatinumKnife: {
+		DisplayName: Платиновый нож
+		// Tooltip: ""
+	}
+
+	Rosaria: {
+		DisplayName: Розария
+		// Tooltip: ""
+	}
+
+	SpectralKnife: {
+		DisplayName: Призрачный нож
+		// Tooltip: ""
+	}
+
+	# OTHERS
+	
+	ScarletGungnir: {
+		DisplayName: Алая дьяволица
+		// Tooltip: ""
+	}
+
+	# BOSSBAGS
+	
+	ArmagemBag: {
+		DisplayName: Мешок с сокровищами (Армагем)
+		Tooltip: Щелкните правой кнопкой мыши, чтобы открыть
+	}
+
+	CryoGuardianBag: {
+		DisplayName: Мешок с сокровищами (Хранитель льдов)
+		Tooltip: Щелкните правой кнопкой мыши, чтобы открыть
+	}
+
+	# SUMMONSBOSSES
+	
+	CryoCrystal: {
+		DisplayName: Крио кристалл
+		Tooltip:
+			'''
+			Призывает Хранителя льда
+			Призывать в снежном биоме
+			'''
+	}
+
+	SoulofForce: {
+		DisplayName: Душа силы
+		Tooltip: Призывает Армагема
+	}
+
+	#ARMOR
+	
+	AcolytesHood: {
+		DisplayName: Капюшон послушника
+		Tooltip: Увеличивает магический урон на 5%
+	}
+
+	AcolytesMantle: {
+		DisplayName: Мантия послушника
+		Tooltip:
+			'''
+			Увеличивает магический урон на 5% и критический удар на 8
+			Увеличивает скорость магической атаки на 4%
+			'''
+	}
+
+	AcolytesKilt: {
+		DisplayName: Килт послушника
+		Tooltip: Увеличивает магический урон на 5% и скорость передвижения на 8%
+	}
+
+	CyberRoninHelm: {
+		DisplayName: Шлем кибер-ронина
+		Tooltip: Увеличивает урон в ближнем бою и критический удар на 12%
+	}
+
+	HolographicHelmet: {
+		DisplayName: Голографический шлем
+		Tooltip:
+			'''
+			Увеличивает магический урон на 12%
+			Увеличивает магический критический удар на 5
+			Увеличивает ману на 40
+			'''
+	}
+
+	PowerVisor: {
+		DisplayName: Силовой козырек
+		Tooltip:
+			'''
+			Увеличивает урон в дальнем бою на 14%
+			Увеличивает критический удар дальнего боя на 10
+			'''
+	}
+
+	VisorOverlord: {
+		DisplayName: Козырек Оверлорд
+		Tooltip:
+			'''
+			Увеличивает урон миньонов на 12%
+			Увеличивает слот миньона на 2
+			'''
+	}
+
+	PowerBreastplate: {
+		DisplayName: Силовой нагрудник
+		Tooltip:
+			'''
+			Увеличивает урон на 5%
+			Увеличивает шанс критического удара на 8
+			'''
+	}
+
+	PowerBoots: {
+		DisplayName: Силовые сапоги
+		Tooltip:
+			'''
+			Увеличивает урон на 5%
+			Увеличивает скорость передвижения на 10%
+			'''
+	}
+
+	# SUMMON
+	
+	CutterStaff: {
+		DisplayName: Режущий посох
+		// Tooltip: ""
+	}
+
+	TestItem: {
+		// DisplayName: Test Item
+		// Tooltip: ""
+	}
+
+	Perfect: {
+		// Tooltip: ""
+		DisplayName: Перфект
+	}
+
+	IceJack: {
+		DisplayName: Ледяной Джек
+		Tooltip: ""
+	}
+
+	GB: {
+		DisplayName: Галактический лук
+		// Tooltip: ""
+	}
+
+	ForestBook: {
+		DisplayName: Лесная книга
+		// Tooltip: ""
+	}
+
+	BadApple: {
+		DisplayName: Плохое яблоко
+		// Tooltip: ""
+	}
+
+	CrystalWings: {
+		DisplayName: Кристальные крылья
+		Tooltip:
+			'''
+			Время полета: 240
+			Скорость полета: 11
+			Множитель ускорения: 3,2
+			'''
+	}
+
+	BlyatkaGun: {
+		DisplayName: Блять ган
+		Tooltip: -фпс
+	}
+
+	ForestGuardianBag: {
+		DisplayName: Мешок с сокровищами (Лесной Страж)
+		Tooltip: Щелкните правой кнопкой мыши, чтобы открыть
+	}
+
+	WoodenFigurine: {
+		DisplayName: Деревянная Фигурка
+		Tooltip: Призывает лесного стража
+	}
+
+	RubyBow: {
+		DisplayName: Рубиновый лук
+		// Tooltip: ""
+	}
+
+	SunSpark: {
+		DisplayName: Солнечная Искра
+		// Tooltip: ""
+	}
+
+	ArmagemMusicBoxItem: {
+		DisplayName: Музыкальная шкатулка (Армагем)
+		Tooltip: Автор музыки: Spectra
+	}
+
+	CryoGuardianMusicBoxItem: {
+		DisplayName: Музыкальная шкатулка (Хранитель льда)
+		Tooltip: Автор музыки: Spectra
+	}
+
+	EngulfingShining: {
+		// Tooltip: ""
+		DisplayName: Поглощающее сияние
+	}
+
+	FrostyCrossbow: {
+		DisplayName: Морозный арбалет
+		// Tooltip: ""
+	}
+
+	FrostPistol: {
+		DisplayName: Морозный пистолет
+		// Tooltip: ""
+	}
+
+	PrimordialThrowingAx: {
+		DisplayName: Первозданный метательный топор
+		// Tooltip: ""
+	}
+
+	PrimordialSword: {
+		DisplayName: Первозданный меч
+		// Tooltip: ""
+	}
+
+	PrimordialBow: {
+		DisplayName: Первозданный Лук
+		// Tooltip: ""
+	}
+
+	PrimordialStaff: {
+		// Tooltip: ""
+		DisplayName: Первозданный посох
+	}
+
+	PrimordialLance: {
+		DisplayName: Первозданное копье
+		// Tooltip: ""
+	}
+
+	PrimordialController: {
+		DisplayName: Первозданный контролер
+		Tooltip: Призывает первозданного червя в пустыне
+	}
+
+	PrimordialWormBag: {
+		DisplayName: Мешок с сокровищами (Первозданный червь)
+		Tooltip: Щелкните правой кнопкой мыши, чтобы открыть
+	}
+
+	SuspiciousMagmaEye: {
+		Tooltip: Призывает хранителя ада (Не ищите в этом логику)
+		DisplayName: Подозрительный магмовый глаз
+	}
+
+	HellGuardianBag: {
+		DisplayName: Мешок с сокровищами (Хранитель ада)
+		Tooltip: Щелкните правой кнопкой мыши, чтобы открыть
+	}
+
+	MagmaSword: {
+		// Tooltip: ""
+		DisplayName: Магматический меч
+	}
+
+	Dummy: {
+		// DisplayName: Dummy
+		// Tooltip: ""
+	}
+
+	VoidBook: {
+		// DisplayName: Void Book
+		// Tooltip: ""
+	}
+}
+
+Projectiles: {
+	// Ring_Visual.DisplayName: Ring_ Visual
+	// PulseBlasterProj.DisplayName: Pulse
+	// StardomProj.DisplayName: Stardom Proj
+	// BlackGrimoireProj.DisplayName: Black Grimoire Proj
+	// BlackGrimoireShootProj.DisplayName: Black Grimoire Shoot Proj
+	// BloodMazeProj.DisplayName: Blood Maze Proj
+	// BookofSilesiaProj.DisplayName: Bookof Silesia Proj
+	// BookofSilesiaProj2.DisplayName: Bookof Silesia Proj2
+	// BookofSilesiaProj22.DisplayName: Bookof Silesia Proj22
+	// BookofTrueFireProj.DisplayName: Bookof True Fire Proj
+	// FreezeMarkProj.DisplayName: Freeze Mark Proj
+	// IceStormProj.DisplayName: Ice Storm Proj
+	// GrimoireofAnotherDimensionLaserProj.DisplayName: Grimoireof Another Dimension Laser Proj
+	// GrimoireofAnotherDimensionProj.DisplayName: Grimoireof Another Dimension Proj
+	// GrimoireofAnotherDimensionShootLaserProj.DisplayName: Grimoireof Another Dimension Shoot Laser Proj
+	// GrimoireofAnotherDimensionShootProj.DisplayName: Grimoireof Another Dimension Shoot Proj
+	// KillerDollProj.DisplayName: Killer Doll Proj
+	// RageofFireProj.DisplayName: Rageof Fire Proj
+	// TheBookofWeakSoulsProj.DisplayName: The Bookof Weak Souls Proj
+	// SpectralKillerPricelProj.DisplayName: Spectral Killer Pricel Proj
+	// SpectralKillerProj.DisplayName: Spectral Killer Proj
+	// SpectralKillerReturnProj.DisplayName: Spectral Killer Return Proj
+	// IceArrowFireProj.DisplayName: Ice Arrow Fire Proj
+	// IceArrowProj.DisplayName: Ice Arrow Proj
+	// RTGrenadeProj.DisplayName: R T Grenade Proj
+	// FireStickProj.DisplayName: Fire Stick Proj
+	// IceStickProj.DisplayName: Ice Stick Proj
+	// CriptaneFlowerProj.DisplayName: Criptane Flower Proj
+	// CrystalStaffProj.DisplayName: Crystal Staff Proj
+	// CrystalStaffTwoProj.DisplayName: Crystal Staff Two Proj
+	// DemoniteFlowerProj.DisplayName: Demonite Flower Proj
+	// ElectroStaffProj.DisplayName: Electro Staff Proj
+	// FireStaffProj.DisplayName: Fire Staff Proj
+	// FireStaffProj2.DisplayName: Fire Staff Proj2
+	// FlanricRoseProj.DisplayName: Flanric Rose Proj
+	// FlanricRoseProj2.DisplayName: Flanric Rose Proj2
+	// FlowerofTheNightOnHitNpcsProj.DisplayName: Flowerof The Night On Hit Npcs Proj
+	// FlowerofTheNightProj.DisplayName: Flowerof The Night Proj
+	// IceFlowerProj.DisplayName: Ice Flower Proj
+	// GaussRailGunProj.DisplayName: Gauss Rail Gun Proj
+	// GaussRailGunTwoProj.DisplayName: Gauss Rail Gun Two Proj
+	// HallowedFlowerProj.DisplayName: Hallowed Flower Proj
+	// HeavenlyStaffProj.DisplayName: Heavenly Staff Proj
+	// HeavenlyStaffProj2.DisplayName: Heavenly Staff Proj2
+	// IceLaserRifleProj.DisplayName: Ice Laser Rifle Proj
+	// IceStaffProj.DisplayName: Ice Staff Proj
+	// MagmaCannonFireProj.DisplayName: Magma Cannon Fire Proj
+	// MagmaCannonProj.DisplayName: Magma Cannon Proj
+	// MagmaMonsterProj.DisplayName: Magma Monster Proj
+	// SeverusProj.DisplayName: Severus Proj
+	// SeverusTwoProj.DisplayName: Severus Two Proj
+	// StaffofAtrasProj.DisplayName: Staffof Atras Proj
+	// StaffofColdBloodProj.DisplayName: Staffof Cold Blood Proj
+	// StaffofColdBloodShootProj.DisplayName: Staffof Cold Blood Shoot Proj
+	// StaffofFateProj.DisplayName: Staffof Fate Proj
+	// StaffofPrismProj.DisplayName: Staffof Prism Proj
+	// StaffofPrismShootProj.DisplayName: Staffof Prism Shoot Proj
+	// StaffofTheInfernalNecromancerKillProj.DisplayName: Staffof The Infernal Necromancer Kill Proj
+	// StaffofTheInfernalNecromancerProj.DisplayName: Staffof The Infernal Necromancer Proj
+	// TerraFlowerHitNpcsProj.DisplayName: Terra Flower Hit Npcs Proj
+	// TerraFlowerHitNpcsProj2.DisplayName: Terra Flower Hit Npcs Proj2
+	// TerraFlowerProj.DisplayName: Terra Flower Proj
+	// TheMurkProj.DisplayName: The Murk Proj
+	// ArmagenProj.DisplayName: Armagen Proj
+	// WitherStaffProj.DisplayName: Wither Staff Proj
+	// WorldStaffProj.DisplayName: World Staff Proj
+	// BloodSwordShootHitEffectProj.DisplayName: Blood Sword Shoot Hit Effect Proj
+	// BloodSwordShootProj.DisplayName: Blood Sword Shoot Proj
+	// BloodthirstyClaymoreSlashProj.DisplayName: Bloodthirsty Claymore Slash Proj
+	// CarnageProj.DisplayName: Carnage Proj
+	// DarkSwordProj.DisplayName: Dark Sword Proj
+	// ExoBladeCuttingProj.DisplayName: Exo Blade Cutting Proj
+	// ExoBladeCuttingProj2.DisplayName: Exo Blade Cutting Proj2
+	// ExoBladeCuttingProj3.DisplayName: Exo Blade Cutting Proj3
+	// ExoBladeProj.DisplayName: Exo Blade Proj
+	// FrostSwordProj.DisplayName: Frost Sword Proj
+	// FuryofTheGalaxyAltProj.DisplayName: Furyof The Galaxy Alt Proj
+	// FuryofTheGalaxyProj.DisplayName: Furyof The Galaxy Proj
+	// FuryofTheGalaxyTwoProj.DisplayName: Furyof The Galaxy Two Proj
+	// HeavenlySwordCuttingProj.DisplayName: Heavenly Sword Cutting Proj
+	// HeavenlySwordProj.DisplayName: Heavenly Sword Proj
+	// HerosDemonicSwordCutting.DisplayName: Heros Demonic Sword Cutting
+	// HerosDemonicSwordProj.DisplayName: Heros Demonic Sword Proj
+	// LastExplosion.DisplayName: Last Explosion
+	// LastProj.DisplayName: Last Proj
+	// PandoraCutting.DisplayName: Pandora Cutting
+	// PandoraKillNpcsProj.DisplayName: Pandora Kill Npcs Proj
+	// PandoraProj.DisplayName: Pandora Proj
+	// SwordofFateProj.DisplayName: Swordof Fate Proj
+	// ReaperProj.DisplayName: Reaper Proj
+	// ReaperSpiritProj.DisplayName: Reaper Spirit Proj
+	// ReaperWaveProj.DisplayName: Reaper Wave Proj
+	// SpectraliburShootProj.DisplayName: Spectralibur Shoot Proj
+	// SpectraliburShootSpiritProj.DisplayName: Spectralibur Shoot Spirit Proj
+	// SpectraliburSlashProj.DisplayName: Spectralibur Slash Proj
+	// SpectraliburSlash.DisplayName: Spectralibur Slash
+	// ChakramofFateEndProj.DisplayName: Chakramof Fate End Proj
+	// ChakramofFateProj.DisplayName: Chakramof Fate Proj
+	// HellChakramProj.DisplayName: Hell Chakram Proj
+	// BaneSpearProj.DisplayName: Bane Spear Proj
+	// BaneSpearProj2.DisplayName: Bane Spear Proj2
+	// FullMoonSpearShootProj.DisplayName: Full Moon Spear Shoot Proj
+	// FullMoonSpearProj.DisplayName: Full Moon Spear Proj
+	// FireSpearProj.DisplayName: Fire Spear Proj
+	// DionaeaShootProj.DisplayName: Dionaea Shoot Proj
+	// DionaeaShootHitNPCsProj.DisplayName: Dionaea Shoot Hit N P Cs Proj
+	// DionaeaProj.DisplayName: Dionaea Proj
+	// BloodSpearProj2.DisplayName: Blood Spear Proj2
+	// BloodSpearProj.DisplayName: Blood Spear Proj
+	// GalaxiaShootTwoProj.DisplayName: Galaxia Shoot Two Proj
+	// GalaxiaShootTwo2Proj.DisplayName: Galaxia Shoot Two2 Proj
+	// GalaxiaShootProj.DisplayName: Galaxia Shoot Proj
+	// GalaxiaProj.DisplayName: Galaxia Proj
+	// WoodenSpearProj.DisplayName: Wooden Spear Proj
+	// TrueFullMoonSpearShootProj.DisplayName: True Full Moon Spear Shoot Proj
+	// TrueFullMoonSpearProj.DisplayName: True Full Moon Spear Proj
+	// TerraSpearShootProj.DisplayName: Terra Spear Shoot Proj
+	// TerraSpearProj.DisplayName: Terra Spear Proj
+	// TerraSpearHitNpcProj.DisplayName: Terra Spear Hit Npc Proj
+	// TerraSpearHitEffect.DisplayName: Terra Spear Hit Effect
+	// SpearOfTheSunShootProj.DisplayName: Spear Of The Sun Shoot Proj
+	// SpearOfTheSunProj.DisplayName: Spear Of The Sun Proj
+	// SpearofFateShootProj.DisplayName: Spearof Fate Shoot Proj
+	// SpearofFateProj.DisplayName: Spearof Fate Proj
+	// SpearofCryoGuardianProj.DisplayName: Spearof Cryo Guardian Proj
+	// ShiningProj.DisplayName: Shining Proj
+	// ShiningCutting.DisplayName: Shining Cutting
+	// PlatinumSpearProj.DisplayName: Platinum Spear Proj
+	// IronSpearProj.DisplayName: Iron Spear Proj
+	// IceSpearProj2.DisplayName: Ice Spear Proj2
+	// IceSpearProj.DisplayName: Ice Spear Proj
+	// HerbalSpearShootProj.DisplayName: Herbal Spear Shoot Proj
+	// HerbalSpearProj.DisplayName: Herbal Spear Proj
+	// HeavenlySpearShootProj.DisplayName: Heavenly Spear Shoot Proj
+	// HeavenlySpearProj.DisplayName: Heavenly Spear Proj
+	// GoldSpearProj.DisplayName: Gold Spear Proj
+	// BloodSwordSwinging.DisplayName: Blood Sword Swinging
+	// Flan175Proj.DisplayName: Flan175 Proj
+	// Flan175AltShootProj.DisplayName: Flan175 Alt Shoot Proj
+	// Flan175AltProj.DisplayName: Flan175 Alt Proj
+	// AdamBowProj.DisplayName: Adam Bow Proj
+	// WaterBowProj.DisplayName: Water Bow Proj
+	// OmegaBowProj.DisplayName: Omega Bow Proj
+	// HellstoneBowProj.DisplayName: Hellstone Bow Proj
+	// HeavenlyBowProj2.DisplayName: Heavenly Bow Proj2
+	// HeavenlyBowProj.DisplayName: Heavenly Bow Proj
+	// ElegantBowYellowProj.DisplayName: Elegant Bow Yellow Proj
+	// ElegantBowWhiteProj.DisplayName: Elegant Bow White Proj
+	// ElegantBowRedProj.DisplayName: Elegant Bow Red Proj
+	// ElegantBowPinkProj.DisplayName: Elegant Bow Pink Proj
+	// ElegantBowLightBlueProj.DisplayName: Elegant Bow Light Blue Proj
+	// ElegantBowGreenProj.DisplayName: Elegant Bow Green Proj
+	// ElegantBowBlueProj.DisplayName: Elegant Bow Blue Proj
+	// ElectroBowProj.DisplayName: Electro Bow Proj
+	// DamnBowProj.DisplayName: Damn Bow Proj
+	// BowofFateProj.DisplayName: Bowof Fate Proj
+	// ArosArrowProj.DisplayName: Aros Arrow Proj
+	// ArosArrowMinProj.DisplayName: Aros Arrow Min Proj
+	// ArosArrowEndProj.DisplayName: Aros Arrow End Proj
+	// ArosAltStarShootProj.DisplayName: Aros Alt Star Shoot Proj
+	// ArosAltStarProj.DisplayName: Aros Alt Star Proj
+	// ArosAltProj.DisplayName: Aros Alt Proj
+	// SoulShotgunRocketProj.DisplayName: Soul Shotgun Rocket Proj
+	// LeichenfaustProj.DisplayName: Leichenfaust Proj
+	// LaserShotgunProj.DisplayName: Laser Shotgun Proj
+	// IkvRifle.DisplayName: Ikv Rifle
+	// CactusKnifeProj.DisplayName: Cactus Knife Proj
+	// CrimsonKnifeProj.DisplayName: Crimson Knife Proj
+	// DarkKnifeProj.DisplayName: Dark Knife Proj
+	// ElectroKnifeProj.DisplayName: Electro Knife Proj
+	// FireKnifeProj.DisplayName: Fire Knife Proj
+	// FlanricKnifeProj.DisplayName: Flanric Knife Proj
+	// GoldKnifeProj.DisplayName: Gold Knife Proj
+	// HerbalKnifeProj.DisplayName: Herbal Knife Proj
+	// IceKnifeProj.DisplayName: Ice Knife Proj
+	// KnifeofFateProj.DisplayName: Knifeof Fate Proj
+	// LunaKnifeProj.DisplayName: Luna Knife Proj
+	// NightNightmareKillProj.DisplayName: Night Nightmare Kill Proj
+	// NightNightmareProj.DisplayName: Night Nightmare Proj
+	// PenetratingDarknessProj.DisplayName: Penetrating Darkness Proj
+	// PlatinumKnifeProj.DisplayName: Platinum Knife Proj
+	// RosariaKillProj.DisplayName: Rosaria Kill Proj
+	// RosariaProj.DisplayName: Rosaria Proj
+	// SpectralKnifeBonusDamageProj.DisplayName: Spectral Knife Bonus Damage Proj
+	// SpectralKnifeProj.DisplayName: Spectral Knife Proj
+	// WaterStaffProj.DisplayName: Water Staff Proj
+	// HistoryBookProj.DisplayName: History Book Proj
+	// ScarletGungnirProj.DisplayName: Scarlet Gungnir Proj
+	// ScarletGungnirBoomProj.DisplayName: Scarlet Gungnir Boom Proj
+	// ScarletGungnir2Proj.DisplayName: Scarlet Gungnir2 Proj
+	# NPCsProj
+	
+	// ArmagemBorderLaserProj.DisplayName: Armagem Border
+	// ArmagemBorderLaserShootProj.DisplayName: Armagem Border
+	// ArmagemBorderMinionProj.DisplayName: Armagem Border
+	// ArmagemBorderProj.DisplayName: Armagem Border
+	// ArmagemLaserProj.DisplayName: Laser
+	// ArmagemMiniLaserProj.DisplayName: Laser
+	// CryoGuardianLaser.DisplayName: Cryo Laser
+	// CryoGuardianProj.DisplayName: Ice Bolt
+	// CryoGuardianStarKillProj.DisplayName: Ice
+	// CryoGuardianStarProj.DisplayName: Cryo Star
+	// ShootCrimeraFlanricProj.DisplayName: Laser
+	// LastSwinging.DisplayName: Last Swinging
+	// testProj.DisplayName: test Proj
+	// BoneYoyoProj.DisplayName: Bone Yoyo Proj
+	// CopperYoyoProj.DisplayName: Copper Yoyo Proj
+	// GoldYoyoProj.DisplayName: Gold Yoyo Proj
+	// PlatinumYoyoProj.DisplayName: Platinum Yoyo Proj
+	// SpecialPlatinumYoyoLaserProj.DisplayName: Special Platinum Yoyo Laser Proj
+	// SpecialPlatinumYoyoProj.DisplayName: Special Platinum Yoyo Proj
+	// StoneYoyoProj.DisplayName: Stone Yoyo Proj
+	// SerenityBookProj.DisplayName: Serenity Book Proj
+	// TheInfernalCentrProj.DisplayName: The Infernal Centr Proj
+	// TheInfernalProj.DisplayName: The Infernal Proj
+	// TheInfernalProj2.DisplayName: The Infernal Proj2
+	// FinalStarProj.DisplayName: Final Star Proj
+	// FinalStarProj2.DisplayName: Final Star Proj2
+	// BigFinalStarProj.DisplayName: Big Final Star Proj
+	// BigStarFlowerProj.DisplayName: Big Star Flower Proj
+	// StarFlowerProj.DisplayName: Star Flower Proj
+	// CryoGuardian2PhaseProj.DisplayName: Cryo Guardian2 Phase Proj
+	// VadeItemP2.DisplayName: Vade Item P2
+	// VadeItemP.DisplayName: Vade Item P
+	// TestRTrailProj.DisplayName: Test R Trail Proj
+	// HeavenlyStaff2BeamProj.DisplayName: Heavenly Staff2 Beam Proj
+	// HeavenlyStaff2Proj.DisplayName: Heavenly Staff2 Proj
+	// OracleBeamSmall.DisplayName: Oracle Beam Small
+	// ElectroFlowerBookProj.DisplayName: Electro Flower Book Proj
+	// AncientHammerProj.DisplayName: Ancient Hammer Proj
+	// AncientHammerShootProj.DisplayName: Ancient Hammer Shoot Proj
+	// DiamondStaffProj.DisplayName: Diamond Staff Proj
+	// RubyStaffProj.DisplayName: Ruby Staff Proj
+	// EmeraldStaffProj.DisplayName: Emerald Staff Proj
+	// CyberKnifeProj.DisplayName: Cyber Knife Proj
+	// StardomExplosionProj.DisplayName: Stardom Explosion Proj
+	// StardomExplosion.DisplayName: Stardom Explosion
+	// ExoBladeSwinging.DisplayName: Exo Blade Swinging
+	// PerfectProj.DisplayName: Perfect Proj
+	// KillerDollLaserProj.DisplayName: Killer Doll Laser Proj
+	// CollidingKnife.DisplayName: Colliding Knife
+	// IceJackProj.DisplayName: Ice Jack Proj
+	// IceJackSpikeProj.DisplayName: Ice Jack Spike Proj
+	// IceJackSpikeSpawner.DisplayName: Ice Jack Spike Spawner
+	// CirclePulse_Visual.DisplayName: Circle Pulse_ Visual
+	// Explosion_Visual.DisplayName: Explosion_ Visual
+	// WitherStaffExplosionProj.DisplayName: Wither Staff Explosion Proj
+	// HistoryBookRemakeProj.DisplayName: History Book Remake Proj
+	// HistoryBookBoomProj.DisplayName: History Book Boom Proj
+	// SpectralKnifeTestProj.DisplayName: Spectral Knife Test Proj
+	// FuryofTheGalaxySlash.DisplayName: Furyof The Galaxy Slash
+	// HeavenlySwordSlash.DisplayName: Heavenly Sword Slash
+	// ReaperSlash.DisplayName: Reaper Slash
+	// FuryofTheGalaxyAltProj2.DisplayName: Furyof The Galaxy Alt Proj2
+	// HeavenlySwordShootProj.DisplayName: Heavenly Sword Shoot Proj
+	// GalaxiaProj2.DisplayName: Galaxia Proj2
+	// CryoGuardianLaserSpawn.DisplayName: Cryo Guardian Laser Spawn
+	// CryoGuardianBigAirProj.DisplayName: Cryo Guardian Big Air Proj
+	// CryoGuardianBigProj.DisplayName: Cryo Guardian Big Proj
+	// GBProj.DisplayName: G B Proj
+	// ArmagemBigLaserProj.DisplayName: Big Laser
+	ForestGuardianMiniProj.DisplayName: Листочек
+	ForestGuardianProj.DisplayName: Большой листочек
+	// SpectralKnifeDeadNpc.DisplayName: Spectral Knife Dead Npc
+	// SoulShotgunRocketProj2.DisplayName: Soul Shotgun Rocket Proj2
+	// ForestBookMiniProj.DisplayName: Forest Book Mini Proj
+	// ForestBookProj.DisplayName: Forest Book Proj
+	// BadAppleProj.DisplayName: Bad Apple Proj
+	// BlyatkaGun2Proj.DisplayName: Blyatka Gun2 Proj
+	// BlyatkaGun3Proj.DisplayName: Blyatka Gun3 Proj
+	// BlyatkaGunProj.DisplayName: Blyatka Gun Proj
+	// BadAppleProj2.DisplayName: Bad Apple Proj2
+	// ArmagemOrbProj.DisplayName: Armagem Orb Proj
+	// RubyBowProj.DisplayName: Ruby Bow Proj
+	// RubyBowProj2.DisplayName: Ruby Bow Proj2
+	// SunSparkProj.DisplayName: Sun Spark Proj
+	// SunSparkProj2.DisplayName: Sun Spark Proj2
+	// BloodMazeAltProj.DisplayName: Blood Maze Alt Proj
+	// SunSparkProj2Spawn.DisplayName: Sun Spark Proj2 Spawn
+	// HeavenlySpear_Slash2.DisplayName: Heavenly Spear_ Slash2
+	// HeavenlySpear_Slash.DisplayName: Heavenly Spear_ Slash
+	// HeavenlySpearCuttingProj.DisplayName: Heavenly Spear Cutting Proj
+	// HeavenlySpearLaser.DisplayName: Heavenly Spear Laser
+	// ScarletGungnirTest.DisplayName: Scarlet Gungnir Test
+	// BookofSilesiaTestProj.DisplayName: Bookof Silesia Test Proj
+	// HeavenlyBowTestProj.DisplayName: Heavenly Bow Test Proj
+	// HeavenlyBowCritProj.DisplayName: Heavenly Bow Crit Proj
+	// HeavenlyBowCritShootProj.DisplayName: Heavenly Bow Crit Shoot Proj
+	// EngulfingShiningSlash2.DisplayName: Engulfing Shining Slash2
+	// EngulfingShiningSlash.DisplayName: Engulfing Shining Slash
+	// EngulfingShiningSlash3.DisplayName: Engulfing Shining Slash3
+	// EngulfingShiningProj.DisplayName: Engulfing Shining Proj
+	// GuardianOfTheDesertProj.DisplayName: Guardian Of The Desert Proj
+	// FrostyCrossbowProj.DisplayName: Frosty Crossbow Proj
+	// FrostPistolProj.DisplayName: Frost Pistol Proj
+	// PrimordialThrowingAxProj.DisplayName: Primordial Throwing Ax Proj
+	// PrimordialSwordShootProj.DisplayName: Primordial Sword Shoot Proj
+	// PrimordialSwordSwinging.DisplayName: Primordial Sword Swinging
+	// PrimordialStaffProj.DisplayName: Primordial Staff Proj
+	// PrimordialStaffTest.DisplayName: Primordial Staff Test
+	// PrimordialStaffLaser.DisplayName: Primordial Staff Laser
+	// PrimordialLanceProj.DisplayName: Primordial Lance Proj
+	// BadAppleBigSlash.DisplayName: Bad Apple Big Slash
+	// BadAppleSlash.DisplayName: Bad Apple Slash
+	// BadAppleHeal.DisplayName: Bad Apple Heal
+	// StaffofPrismLaser.DisplayName: Staffof Prism Laser
+	HellGuardianProj.DisplayName: Clot of Magma
+	// HellstoneBowProj2.DisplayName: Hellstone Bow Proj2
+	// MagmaSwordWave.DisplayName: Magma Sword Wave
+	// MagmaSwordSwinging.DisplayName: Magma Sword Swinging
+	// GaussRailGunHold.DisplayName: Gauss Rail Gun Hold
+	// GaussRailGunHoldProj.DisplayName: Gauss Rail Gun Hold Proj
+	// GaussRailGunLaser.DisplayName: Gauss Rail Gun Laser
+	// StardomBoom.DisplayName: Stardom Boom
+	// GalaxyBowProj.DisplayName: Galaxy Bow Proj
+	// LeichenfaustProjTest.DisplayName: Leichenfaust Proj Test
+	// ExoBladeSlash.DisplayName: Exo Blade Slash
+	// VoidBookProj.DisplayName: Void Book Proj
+	// VoidLaser.DisplayName: Void Laser
+	// VoidMonster.DisplayName: Void Monster
+	// VoidBigBolt.DisplayName: Void Big Bolt
+	// VoidBolt.DisplayName: Void Bolt
+	// VoidPortal.DisplayName: Void Portal
+	// VoidPortal2.DisplayName: Void Portal2
+	// SotinExplosion.DisplayName: Sotin Explosion
+	// SotinFireboll.DisplayName: Sotin Fireboll
+}
+
+Tiles: {
+	DarkBarTile.MapEntry: Темный слиток
+	ElectroBarTile.MapEntry: Электро слиток
+	DarkOreTile.MapEntry: Темная руда
+	// ElectroTile.MapEntry: Electro Ore
+	ElectroOreTile.MapEntry: Электро руда
+}
+
+NPCs: {
+	ArmagemBody.DisplayName: Армагем
+
+	ArmagemHead: {
+		DisplayName: Армагем
+		BossChecklistIntegration.SpawnInfo: Используете это [i:FM/SoulofForce] ночью.
+	}
+
+	ArmagemMinion.DisplayName: Зонд Армагема
+	ArmagemTail.DisplayName: Армагем
+
+	CryoGuardian: {
+		DisplayName: Хранитель льдов
+		BossChecklistIntegration.SpawnInfo: Используете это [i:FM/CryoCrystal] в тундре. Предмет подает со снежных монстров.
+	}
+
+	Epsilon.DisplayName: Эпсилон (Скоро)
+
+	HellGuardian: {
+		DisplayName: Хранитель ада
+		BossChecklistIntegration.SpawnInfo: Используете это [i:FM/SuspiciousMagmaEye] в аду.
+	}
+
+	BoneSerpentFlanricBody.DisplayName: Фланрический костяной змей
+	BoneSerpentFlanricHead.DisplayName: Фланрический костяной змей
+	BoneSerpentFlanricTail.DisplayName: Фланрический костяной змей
+	CorruptorFlanric.DisplayName: Фланрический разлагатель
+	CrimeraFlanric.DisplayName: Фланрическая кримера
+	FlanricWormBody.DisplayName: Фланрический червь
+	FlanricWormHead.DisplayName: Фланрический червь
+	FlanricWormTail.DisplayName: Фланрический червь
+	FlanricSlime.DisplayName: Фланрический слизень
+	MutantDemonEyeFlanric.DisplayName: Фланрический демонический глаз
+	ShootCrimeraFlanric.DisplayName: Фланрическая кримера
+	// CryoGuardian2Phase.DisplayName: Cryo Guardian2 Phase
+	// CorruptorFlanricTest.DisplayName: Corruptor Flanric Test
+	// NewCryoGuardian.DisplayName: New Cryo Guardian
+
+	ForestGuardian: {
+		DisplayName: Лесной страж
+		BossChecklistIntegration.SpawnInfo: Используете это [i:FM/WoodenFigurine] в лесу.
+	}
+
+	ForestGuardianMinion.DisplayName: Лесной помощник
+	PrimordialWormBody.DisplayName: Первозданный червь
+	PrimordialWormBodyAlt.DisplayName: Первозданный червь
+
+	PrimordialWormHead: {
+		DisplayName: Первозданный червь
+		BossChecklistIntegration.SpawnInfo: Используете это [i:FM/PrimordialController] в пустыне.
+	}
+
+	PrimordialWormTail.DisplayName: Первозданный червь
+	// DummyNPC.DisplayName: Dummy
+	// Void.DisplayName: Void
+}
+
+Buffs: {
+	Electric: {
+		// DisplayName: Electric
+		// Description: Mods.FM.Buffs.Electric.Description
+	}
+
+	FlanricDisease: {
+		DisplayName: Фланрическая болезнь
+		Description:
+			'''
+			Вы страдаете фланрической болезнью
+			Ваши характеристики были уменьшены
+			'''
+	}
+
+	CyberKnifeBuff: {
+		DisplayName: Кибер нож
+		Description: ...
+	}
+}
